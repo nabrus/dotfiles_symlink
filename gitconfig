@@ -10,3 +10,5 @@
 	lg = log
 	df = diff
 	co = checkout
+[core]
+	excludesfile = /Users/sju0422/.gitignore
