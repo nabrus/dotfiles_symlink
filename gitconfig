@@ -1,0 +1,12 @@
+[user]
+	name = towelie
+	email = 34988577+nabrus@users.noreply.github.com
+[credential]
+	helper = osxkeychain
+[alias]
+	c = commit -m
+	a = add
+	st = status
+	lg = log
+	df = diff
+	co = checkout

@@ -1,0 +1,15 @@
+# My aliases
+
+# Shortcuts
+alias ll="ls -lhF"    # (F) puts `/' for directory, `*' for file, etc.
+alias lla="ls -lhaF"  # (l) long, (h) human readable, (a) all
+alias ds="du -sh"     # Get a directory's size: du -sh [ directory-name ]
+alias c="clear"
+alias del="rm -ri"
+alias g="git"
+alias x="exit"
+
+# Easier navigation
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."

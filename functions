@@ -1,0 +1,5 @@
+# Read man pages in preview. Saves man pages as PostScript files which are then read by Preview. syntax: psman [command]
+psman()
+{
+man -t "${1}" | open -f -a /Applications/Preview.app/
+}
