@@ -4,12 +4,12 @@
 [credential]
 	helper = osxkeychain
 [alias]
-	c = commit -m
 	a = add
 	p = push
 	f = fetch
 	m = merge
 	b = branch
+	c = commit -m
 	ac = commit -am
 	st = status
 	lg = log
