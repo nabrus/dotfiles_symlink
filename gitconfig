@@ -10,12 +10,12 @@
 	f = fetch
 	m = merge
 	b = branch
+	ac = commit -am
 	st = status
 	lg = log
 	df = diff
 	co = checkout
 	po = push origin
 	mom = merge origin/master
-	ac = !git add -A && git commit -m
 [core]
 	excludesfile = /Users/sju0422/.gitignore
