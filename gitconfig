@@ -7,9 +7,14 @@
 	c = commit -m
 	a = add
 	p = push
+	f = fetch
+	m = merge
+	b = branch
 	st = status
 	lg = log
 	df = diff
 	co = checkout
+	po = push origin
+	mom = merge origin/master
 [core]
 	excludesfile = /Users/sju0422/.gitignore
