@@ -16,5 +16,6 @@
 	co = checkout
 	po = push origin
 	mom = merge origin/master
+	ac = !git add -A && git commit -m
 [core]
 	excludesfile = /Users/sju0422/.gitignore
