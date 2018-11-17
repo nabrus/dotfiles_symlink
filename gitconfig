@@ -6,6 +6,7 @@
 [alias]
 	c = commit -m
 	a = add
+	p = push
 	st = status
 	lg = log
 	df = diff

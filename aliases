@@ -10,6 +10,7 @@ alias c="clear"
 alias del="rm -ri"
 alias g="git"
 alias x="exit"
+alias reload="source ~/.bash_profile"
 
 # Easier navigation
 alias ..="cd .."
