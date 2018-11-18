@@ -5,3 +5,10 @@ psman()
 {
 man -t "${1}" | open -f -a /Applications/Preview.app/
 }
+
+# Make a directory and move into it
+mkd() {
+  mkdir -p "$@"; 
+  cd "$@"
+}
+
