@@ -1,6 +1,6 @@
 # dotfiles
 
-This repo contains my (`.`) files — configurations, shortcuts, etc.
+This repo contains my (`.`) files—configurations, shortcuts, etc.
 
 
 ## Files Index:
