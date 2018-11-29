@@ -1,5 +1,5 @@
 # PATH
-export PATH=$PATH:~/scripts
+export PATH=$PATH:~/scripts:~/.shell_scripts
 
 # Source...
 source .aliases
