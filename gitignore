@@ -5,5 +5,8 @@
 .Spotlight-V100
 .Trashes
 
+# # Ignore files related to API keys
+.env
+
 # npm
 node_modules
