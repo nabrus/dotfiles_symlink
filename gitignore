@@ -6,7 +6,7 @@
 .Trashes
 
 # Ignore files related to API keys
-.env
+# .env
 
 # npm
 node_modules
